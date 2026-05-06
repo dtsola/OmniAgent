@@ -9,7 +9,11 @@
   <img src="https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge" alt="License" />
 </p>
 
-OmniAgent 是一个基于大语言模型的现代化智能对话系统，支持多Agent协作、知识库检索、工具调用、MCP服务器集成、实时对话等功能。
+> **📚 教学项目说明**  
+> OmniAgent 是一个**展示AI Agent开发的现代化教学项目**，旨在通过完整的系统实现帮助学习者理解AI工程体系。项目涵盖了从Agent架构、RAG系统到MCP协议的核心技术栈，适合希望深入学习AI应用开发的学习者和开发者参考学习。
+
+
+OmniAgent是一个基于大语言模型的现代化智能对话系统，支持多Agent协作、知识库检索、工具调用、MCP服务器集成、实时对话等功能。
 
 ## 什么是 OmniAgent？
 
