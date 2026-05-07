@@ -124,7 +124,7 @@ def create_calendar_event(
     return calendar_event_message + event_attendee_message if event_attendee_message else calendar_event_message
 
 if __name__ == "__main__":
-    response = create_calendar_event(app_id="cli_a834d157e139d00d", app_secret="C8B0fhx7Pqpll9gB0zsuThhxinaaq47G", summary="测试22222", description="xxxxxxxxxxxxx",
+    response = create_calendar_event(app_id="cli_XXXXXXXXXXXXX", app_secret="XX", summary="测试22222", description="xxxxxxxxxxxxx",
                           start_time="2025-09-19 12:00", end_time="2025-09-20 14:00",
     user_id_type = "open_id",
     need_notification = True,
