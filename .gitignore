@@ -104,3 +104,9 @@ coverage.xml
 *.cover
 .hypothesis/
 .pytest_cache/
+
+# 临时文档
+**/项目提示词.md
+docs/base*/
+docs/内容创作/
+
